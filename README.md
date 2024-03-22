@@ -5,7 +5,11 @@
 # Interval-Shapley-Values-Neural-Estimation
 This repository contains the code of the paper **"Efficient Neural Network-based Estimation of Interval Shapley Values"**
 
+The paper is currently submitted and under revision at **IEEE TKDE**
+
 Repository descriptio:
 - ISV folder contains all files to train and evaluate ISV models
 - ISLV folder contains all files to train ISLV models
+
+
 
